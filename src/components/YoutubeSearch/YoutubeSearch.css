@@ -1,0 +1,7 @@
+.videos-container {
+  box-sizing: border-box;
+  padding: 0 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
